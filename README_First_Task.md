@@ -42,7 +42,7 @@ Fine-tune the best performing model.
 Create a prediction function for new passenger data.
 
 Code and Dependencies
-The analysis is performed in a Jupyter notebook environment. Required libraries:
+The analysis is performed in a Google Colab environment. Required libraries:
 
 pandas
 numpy
@@ -96,7 +96,7 @@ Fine-tune the best performing model
 Create a prediction function for new Iris flower measurements
 
 Code and Dependencies:
-The analysis is performed in a Jupyter notebook environment. Required libraries:
+The analysis is performed in a Google Colab environment. Required libraries:
 
 pandas
 numpy
