@@ -2,6 +2,7 @@
 First Task:
 I recently completed a project using the Titanic dataset to predict survival outcomes based on various features. 
 Here's a brief overview of what I accomplished:
+
 Data Processing:
 I handled missing values in the 'Age' column and dropped the 'Cabin' column to simplify the dataset.
 I encoded categorical features like 'Sex' and 'Embarked' using one-hot encoding to prepare for modeling.
