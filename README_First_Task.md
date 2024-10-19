@@ -22,3 +22,4 @@ and F1-score for both classes (survived and not survived).
 Visualization:
 I created a visualization showing survival rates by gender using Seaborn's countplot, 
 highlighting the impact of gender on survival outcomes.
+
